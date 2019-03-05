@@ -1,11 +1,10 @@
 # logindemo
 
-A new Flutter application.
+A new Flutter application for a login page layout.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
